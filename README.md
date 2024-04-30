@@ -23,7 +23,7 @@ I was set, this was what I wanted to do with my life.
 
 Technologies I've been working with recently
 
-<div style="text-align: center;">
+<div style="display:flex; justify-content: center; gap: 1rem;">
   <img src="https://img.shields.io/badge/HTML5-expert?style=for-the-badge&logo=HTML5&logoColor=%23fefefe&labelColor=%23e34c26&color=%23e34c26" width="120">
   <img src="https://img.shields.io/badge/CSS3-expert?style=for-the-badge&logo=CSS3&logoColor=%23fefefe&labelColor=%23264de4&color=%23264de4" width="120">
   <img src="https://img.shields.io/badge/SCSS-expert?style=for-the-badge&logo=Sass&logoColor=%23fefefe&labelColor=%23cc6699&color=%23cc6699" width="120">
