@@ -28,4 +28,4 @@ Technologies I've been working with recently
 
 You are looking for an apprentice who's passionate, curious and open-minded, or simply want to share or work on a project together, feel free to reach out !
 
-![Linkedin](https://img.shields.io/badge/Tiffany%20Dbeissy?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue)(https://www.linkedin.com/in/tiffany-dbeissy/)
+[![Linkedin](https://img.shields.io/badge/Tiffany%20Dbeissy?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/tiffany-dbeissy/)
