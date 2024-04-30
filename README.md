@@ -23,7 +23,8 @@ I was set, this was what I wanted to do with my life.
 
 Technologies I've been working with recently
 
-![HTML5](https://img.shields.io/badge/HTML5-expert?style=for-the-badge&logo=HTML5&logoColor=%23fefefe&labelColor=RGB(227%2C%2076%2C%2038))
+![HTML5](https://img.shields.io/badge/HTML5-expert?style=for-the-badge&logo=HTML5&logoColor=%23fefefe&labelColor=%23e34c26&color=%23e34c26)
+
 
 
 ## Let's connect
