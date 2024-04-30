@@ -9,7 +9,7 @@ I've always been interested in technologies since I'm little. One day, as I was 
 
 I was set, this was what I wanted to do with my life.
 
-_I also love chocolate, video games, my dog and my cat._
+<sub>_I also love chocolate, video games, my dog and my cat._</sub>
 
 ## 🛠️ Experiences
 
