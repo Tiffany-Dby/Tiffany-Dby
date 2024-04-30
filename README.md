@@ -19,6 +19,8 @@ I was set, this was what I wanted to do with my life.
 
   🎨 Mastering Front-end - Online course front-end focused as I discovered Web developpment.
 
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-expert?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAS0lEQVR4nGNgGEngPxoetQAD%2FB8NIkLg%2F2gQoYNyLMGCC9cz0NCSenINJ8aSekoNx2cJ1QzHZgnVDYeBBigeBbQB%2F6mM6W8Bw5AEAO%2F6b2XgFcy5AAAAAElFTkSuQmCC&labelColor=fefefe&color=fefefe)](https://drive.google.com/file/d/11plF47OEh2a5LxZOzUroVDvFcbLjB9TE/view)
+
 ## 💻 Skills
 
 Technologies I've been working with recently
