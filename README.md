@@ -1,7 +1,7 @@
 # Welcome 👋
 You have landed on my Github profile, have a nice ride !
 
-## 👩‍💼 About me
+## 👩🏻‍💻 About me
 
 My name is Tiffany Dbeissy, I'm 29 years old, and I'm a Web Developper located in Bordeaux - I do not drink wine though.
 
@@ -11,13 +11,13 @@ I was set, this was what I wanted to do with my life.
 
 ## 🛠️ Experiences
 
-  🚀 __Currently - I'm seeking an apprenticeship opportunity as a Web Developper to continue my studies as 3rd degree Bachelor in [Sup de Vinci Bordeaux](https://www.supdevinci.fr/) school.__
+  🚀 __Currently - I'm seeking an apprenticeship opportunity as a Web Developper to continue my studies as 3rd degree Bachelor in [Sup de Vinci](https://www.supdevinci.fr/) Bordeaux school.__
 
-  Internship @Rody de Bâtiment as Web Developper - In a company specialized in kitchen installation, I developed their static website.
+  💼 Internship @Rody de Bâtiment as Web Developper - In a company specialized in kitchen installation, I developed their static website.
 
-  Bootcamp @3WAcademy - Accelerated course with JavaScript specialization, I obtained my Web Developper Full Stack Certification.
+  🏢 Bootcamp @3WAcademy - Accelerated course with JavaScript specialization, I obtained my Web Developper Full Stack Certification.
 
-  Mastering Front-end - Online course front-end focused as I discovered Web developpment.
+  🎨 Mastering Front-end - Online course front-end focused as I discovered Web developpment.
 
 ## 💻 Skills
 
