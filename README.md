@@ -9,6 +9,8 @@ I've always been interested in technologies since I'm little. One day, as I was 
 
 I was set, this was what I wanted to do with my life.
 
+_Other than that I love chocolate, video games, my dog and my cat._
+
 ## 🛠️ Experiences
 
   🚀 __Currently - I'm seeking an apprenticeship opportunity as a Web Developper to continue my studies as 3rd degree Bachelor in [Sup de Vinci](https://www.supdevinci.fr/) school.__
