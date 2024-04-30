@@ -1,7 +1,7 @@
 # Welcome 👋
 You have landed on my Github profile, have a nice ride !
 
-## About me
+## 👩‍💼 About me
 
 My name is Tiffany Dbeissy, I'm 29 years old, and I'm a Web Developper located in Bordeaux - I do not drink wine though.
 
@@ -9,9 +9,9 @@ I've always been interested in technologies since I'm little. One day, as I was 
 
 I was set, this was what I wanted to do with my life.
 
-## Experiences
+## 🛠️ Experiences
 
-  __Currently - I'm seeking an apprenticeship opportunity as a Web Developper to continue my studies as 3rd degree Bachelor in [Sup de Vinci Bordeaux](https://www.supdevinci.fr/) school.__
+  🚀 __Currently - I'm seeking an apprenticeship opportunity as a Web Developper to continue my studies as 3rd degree Bachelor in [Sup de Vinci Bordeaux](https://www.supdevinci.fr/) school.__
 
   Internship @Rody de Bâtiment as Web Developper - In a company specialized in kitchen installation, I developed their static website.
 
@@ -19,7 +19,7 @@ I was set, this was what I wanted to do with my life.
 
   Mastering Front-end - Online course front-end focused as I discovered Web developpment.
 
-## Skills
+## 💻 Skills
 
 Technologies I've been working with recently
 
@@ -37,8 +37,9 @@ Technologies I've been working with recently
 ![FIGMA](https://img.shields.io/badge/FIGMA-expert?style=for-the-badge&logo=FIGMA&logoColor=fefefe&labelColor=A259FF&color=A259FF)
 
 
-## Let's connect
+## 🌐 Let's connect
 
 You are looking for an apprentice who's passionate, curious and open-minded, or simply want to share or work on a project together, feel free to reach out !
 
 [![LinkedIn](https://img.shields.io/badge/Tiffany%20Dbeissy-expert?logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/tiffany-dbeissy/)
+[![Gmail](https://img.shields.io/badge/tiffany.dbeissy%40gmail.com-expert?logo=GMAIL&logoColor=%23CE3C31&labelColor=fefefe&color=fefefe)](mailto:tiffany.dbeissy@gmail.com)
