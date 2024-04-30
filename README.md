@@ -11,7 +11,7 @@ I was set, this was what I wanted to do with my life.
 
 ## 🛠️ Experiences
 
-  🚀 __Currently - I'm seeking an apprenticeship opportunity as a Web Developper to continue my studies as 3rd degree Bachelor in [Sup de Vinci](https://www.supdevinci.fr/) Bordeaux school.__
+  🚀 __Currently - I'm seeking an apprenticeship opportunity as a Web Developper to continue my studies as 3rd degree Bachelor in [Sup de Vinci](https://www.supdevinci.fr/) school.__
 
   💼 Internship @Rody de Bâtiment as Web Developper - In a company specialized in kitchen installation, I developed their static website.
 
