@@ -1,9 +1,10 @@
 # Welcome 👋
+
 You have landed on my Github profile, have a nice ride !
 
 ## 👩🏻‍💻 About me
 
-My name is Tiffany Dbeissy, I'm 29 years old, and I'm a Web Developper located in Bordeaux - I do not drink wine though.
+My name is Tiffany, I'm 29 years old, and I'm a Web Developer located in Bordeaux - I do not drink wine though.
 
 I've always been interested in technologies since I'm little. One day, as I was wondering what I could do for living, I decided, out of curiousity, to check how websites were made. Man, I fell in love, this was so interesting that I went deeper and started to learn by making projects and testing things left and right.
 
@@ -13,15 +14,13 @@ I was set, this was what I wanted to do with my life.
 
 ## 🛠️ Experiences
 
-  🚀 __Currently - I'm seeking an apprenticeship opportunity as a Web Developper to continue my studies as 3rd degree Bachelor in [Sup de Vinci](https://www.supdevinci.fr/) school.__
+🚀 **Currently** - 🦸‍♀️ Apprentice Superhero Developer Full Stack at [adcleek](https://www.adcleek.com/) & student in [Sup de Vinci](https://www.supdevinci.fr/) school.
 
-  💼 Internship @Rody de Bâtiment as Web Developper - In a company specialized in kitchen installation, I developed their static website.
+💼 Internship @Rody de Bâtiment as Web Developer - In a company specialized in kitchen installation, I developed their static website.
 
-  🏢 Bootcamp @3WAcademy - Accelerated course with JavaScript specialization, I obtained my Web Developper Full Stack Certification.
+🏢 Bootcamp @3WAcademy - Accelerated course with JavaScript specialization, I obtained my Web Developer Full Stack Certification.
 
-  🎨 Mastering Front-end - Online course front-end focused as I discovered Web developpment.
-
-[![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-expert?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAS0lEQVR4nGNgGEngPxoetQAD%2FB8NIkLg%2F2gQoYNyLMGCC9cz0NCSenINJ8aSekoNx2cJ1QzHZgnVDYeBBigeBbQB%2F6mM6W8Bw5AEAO%2F6b2XgFcy5AAAAAElFTkSuQmCC&labelColor=fefefe&color=fefefe)](https://drive.google.com/file/d/1M-pO5AdnnbStriXT4ieHgFPLIrq3jy-7/view?usp=sharing)
+🎨 Mastering Front-end - Online course front-end focused as I discovered Web developpment.
 
 ## 💻 Skills
 
@@ -42,11 +41,9 @@ Technologies I've been working with recently
 ![GITHUB](https://img.shields.io/badge/GITHUB-expert?style=for-the-badge&logo=GITHUB&logoColor=fefefe&labelColor=222529&color=222529)
 ![FIGMA](https://img.shields.io/badge/FIGMA-expert?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACsklEQVR4nO2W0YqbQBSG8xBNGu9LMXvRVyhoF2I2FlrMA%2FRipzGwKO1VUSgb80QFXVYLfQKTvETS26jRS08Zs2nDEo0OM9ZAfjhXifB%2FZ%2F45c1qtiy76P%2Fp9%2FbKzkrjZWuouVgNuux5wkFegi%2FmlCVvQhDnoggVfrzv1mL%2FpjlYSFxaZLg2gH8KIIeiCwt78gEvLmq8EoGeVMoN4ik3pzhMCAOhCAHf9NnWALPMVzZMBiPhuTKkDrKXuskaAOXWA1YCL6gMQQ%2FoABPknBtCFgDoAnvnnHSGJs%2Bo7AfH%2BfMeoJmzgy9sXLRZa97sK84dMe%2FeRiflnEAF1AE3YMDd%2FANFeDbjpWur6p8brCeMRaKKPM88sNsf0%2FQN0DBlmpgwLU4atKQPk1eF3bx6jDm%2FHM95JFrwdb3eVzHk7tvBvtZg33sPIHEJYZPoYwNVDMuo5cdhzEjhecXjlxAp78zKkZc3vATLzdpzmm092ZccpMwgcmyqd3xeORnHnk%2BcQwSsnpL%2BNPmUeqhbOfGnzzt840d9GDRmWZADJsioAbyf0VwljCBHhCUQEJxBSByDJP65K%2BXf%2B3QP6ALuZX%2F0EnGTRiAiZMliEEbIITuD%2BjMdosnn9I2SzVpg3oBA9ZE6slH3I%2BIeY7UKHIQwZgioABxBBUed51ub3%2BtaHtjGEqSmDf2q8Hn6HX1j8SPXsxMfjNRuxduLjzDOLzTGNH8cd5E1myFMXyFO3yJtAXrWaJuSqI%2BROwiLTjQVAO%2FNpWfONAhjj2FTofOMAUJb5auYbBXDrqcvzBnDV6KwBEEH%2Bbz2V%2FlZJqt3MrwjgTuhvlaS6dVWLIEL0t8oax%2BgG%2FUL1rQdl9PnnRCn1kOH%2FuGo9ixkJBL6chZ1vqvm9Pjl3beSqU%2BSqPh6v2Yh1VR9nvnGxueiiVq7%2BAFwg%2FqWc6gzXAAAAAElFTkSuQmCC&labelColor=fefefe&color=fefefe)
 
-
-
 ## 🌐 Let's connect
 
-You are looking for an apprentice who's passionate, curious and open-minded, or simply want to share or work on a project together, feel free to reach out !
+I don't bite, feel free to reach out !
 
 [![LinkedIn](https://img.shields.io/badge/Tiffany%20Dbeissy-expert?logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/tiffany-dbeissy/)
 [![Gmail](https://img.shields.io/badge/tiffany.dbeissy%40gmail.com-expert?logo=GMAIL&logoColor=CE3C31&labelColor=fefefe&color=fefefe)](mailto:tiffany.dbeissy@gmail.com)
