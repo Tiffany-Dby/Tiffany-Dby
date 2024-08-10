@@ -20,7 +20,7 @@ I was set, this was what I wanted to do with my life.
 
 🏢 Bootcamp @3WAcademy - Accelerated course with JavaScript specialization, I obtained my Web Developer Full Stack Certification.
 
-🎨 Mastering Front-end - Online course front-end focused as I discovered Web developpment.
+🎨 Mastering Front-end - Online course front-end focused as I discovered Web Development.
 
 ## 💻 Skills
 
