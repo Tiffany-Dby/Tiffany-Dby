@@ -4,7 +4,7 @@ You have landed on my Github profile, have a nice ride !
 
 ## 👩🏻‍💻 About me
 
-My name is Tiffany, I'm 30 years old, and I'm a Web Developer located in Bordeaux - I do not drink wine though.
+My name is Tiffany, I'm a Web Developer located in Bordeaux - I do not drink wine though.
 
 I've always been interested in technologies since I'm little. One day, as I was wondering what I could do for living, I decided, out of curiousity, to check how websites were made. Man, I fell in love, this was so interesting that I went deeper and started to learn by making projects and testing things left and right.
 
